@@ -1,1 +1,1 @@
-# This is a static website for illusions!
+# This is a static website for my personal use!

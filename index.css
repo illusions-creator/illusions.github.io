@@ -359,3 +359,48 @@ canvas {
     /* bring your own prefixes */
     transform: translate(-50%, -50%);
 }
+
+
+
+
+img,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+li,
+ul,
+ol,
+form,
+input,
+textarea,
+button,
+select,
+label,
+table,
+tr,
+td,
+th,
+tbody,
+thead,
+tfoot,
+img {
+    animation: fadeIn 4s;
+
+}
+
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
